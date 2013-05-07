@@ -26,8 +26,7 @@
 
 ## インストール
 
-1. ダウンロード
-2. `/Applications/Adobe Illustrator/preset/script/`以下に移動します
+ダウンロードした`レイヤー毎にPDFとして保存.jsx`を`/Applications/Adobe Illustrator/preset/script/`以下に移動。その後、Illustratorを起動します。
 
 ## 使い方
 
@@ -40,16 +39,16 @@
 
 ---
 
-**Adobe Illustrator Script 2**
+**Script 2**
 
-# 非表示アイテムを全消去[DeleteAllHiddens]
+# 非表示アイテムを全消去 [DeleteAllHiddens] #
 
 ---
 
 ## 特徴
 
 非表示状態のレイヤーやアイテム・グループをきれいに消去します。
-ロックされてても関係なく消されます。（個人的には最後のクリーンナップがポイント！）
+ロックされてても関係なく消されます。
 
 ## 機能
 
@@ -57,5 +56,13 @@
 2. 非表示状態のレイヤーの消去
 3. 子要素がなくなったレイヤーの消去（クリーンナップ）
 
+## インストール
 
+ダウンロードした`非表示アイテムを全消去.jsx`を`/Applications/Adobe Illustrator/preset/script/`以下に移動。その後、Illustratorを起動します。
 
+## 使い方
+
+1. Illustratorを起動
+2. AIファイルを開く
+3. `ファイル`＞`スクリプト`から、`非表示アイテムを全消去`を選択
+4. 消去結果がポップアップで表示されます
